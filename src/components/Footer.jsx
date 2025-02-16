@@ -29,7 +29,7 @@ const Footer = () => {
             Bhubaneswar, PIN-751002
           </p>
           <p className="text-gray-300 text-sm mt-1">
-            Email: rojalin@learningtrees.in
+            Email: beherarojalin2@gmail.com
           </p>
           <p className="text-gray-300 text-sm mt-1">
             Phone: (+91) 7735668444, 8114377310
