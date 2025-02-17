@@ -32,7 +32,7 @@ const Footer = () => {
             Email: beherarojalin2@gmail.com
           </p>
           <p className="text-gray-300 text-sm mt-1">
-            Phone: (+91) 7735668444, 8114377310
+            Phone: (+91) 7735668445, 8114377310
           </p>
         </div>
 
@@ -63,7 +63,7 @@ const Footer = () => {
           {/* WhatsApp Icon */}
           {/* Replace '917735668444' with your full phone number in international format */}
           <a
-            href="https://wa.me/917735668444"
+            href="https://wa.me/917735668445"
             title="Chat on WhatsApp"
             target="_blank"
             rel="noopener noreferrer"
